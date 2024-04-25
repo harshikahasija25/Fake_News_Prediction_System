@@ -1,1 +1,1 @@
-# Fake_News_Prediction_System
+# News_Prediction_System
